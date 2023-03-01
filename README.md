@@ -43,9 +43,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 Basic CSS styling and positioning.
 
-### Continued development
-
 ## Author
 
 - Website - [Obtulowicz.info](https://www.obtulowicz.info)
-- Frontend Mentor - [@obtulowiczinfo](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@obtulowiczinfo](https://www.frontendmentor.io/profile/obtulowiczl)
